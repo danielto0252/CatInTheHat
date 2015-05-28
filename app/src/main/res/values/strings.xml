@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">The Cat In The Hat</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="btn_cat_value">The Cat</string>
+    <string name="btn_thing_one_value">Thing 1</string>
+    <string name="btn_thing_two_value">Thing 2</string>
+    <string name="btn_thingamajigger_value">Thingamajigger</string>
+    <string name="btn_sally_value">Sally</string>
+    <string name="btn_nick_value">Nick</string>
+    <string name="btn_seuss_value">Dr. Seuss</string>
+</resources>
